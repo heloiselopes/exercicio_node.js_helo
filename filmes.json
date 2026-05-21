@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "titulo": "Matrix",
+    "ano": 1999,
+    "diretor": "Lana Wachowski",
+    "genero": "Ficção",
+    "nota": 4.8
+  },
+  {
+    "id": 2,
+    "titulo": "Titanic",
+    "ano": 1997,
+    "diretor": "James Cameron",
+    "genero": "Romance",
+    "nota": 4.5
+  },
+  {
+    "id": 3,
+    "titulo": "Toy Story",
+    "ano": 1995,
+    "diretor": "John Lasseter",
+    "genero": "Animação",
+    "nota": 4.7
+  },
+  {
+    "id": 4,
+    "titulo": "O Poderoso Chefão",
+    "ano": 1972,
+    "diretor": "Francis Ford Coppola",
+    "genero": "Drama",
+    "nota": 4.9
+  },
+  {
+    "id": 5,
+    "titulo": "Star Wars",
+    "ano": 1977,
+    "diretor": "George Lucas",
+    "genero": "Ficção",
+    "nota": 4.6
+  },
+  {
+    "id": 6,
+    "titulo": "Inception",
+    "ano": 2010,
+    "diretor": "Christopher Nolan",
+    "genero": "Ficção",
+    "nota": 4.7
+  },
+  {
+    "id": 7,
+    "titulo": "Gladiador",
+    "ano": 2000,
+    "diretor": "Ridley Scott",
+    "genero": "Drama",
+    "nota": 4.6
+  },
+  {
+    "id": 8,
+    "titulo": "Frozen",
+    "ano": 2013,
+    "diretor": "Chris Buck",
+    "genero": "Animação",
+    "nota": 4.4
+  }
+]
